@@ -1,1 +1,8 @@
 Udalosti
+Názov vysokej školy/univerzity
+Názov fakulty
+Študijný odbor
+Meno autora práce
+Názov diplomovej práce
+Meno školite¾a
+Mesiac a rok odovzdania práce
