@@ -1,8 +1,10 @@
 Udalosti
-N·zov vysokej ökoly/univerzity
-N·zov fakulty
-ätudijn˝ odbor
-Meno autora pr·ce
-N·zov diplomovej pr·ce
-Meno ökoliteæa
-Mesiac a rok odovzdania pr·ce
+N√°zov vysokej ≈°koly/univerzity
+N√°zov fakulty
+≈†tudijn√Ω odbor
+Meno autora pr√°ce
+N√°zov diplomovej pr√°ce
+Meno ≈°kolite¬æa
+Mesiac a rok odovzdania pr√°ce
+
+2020
